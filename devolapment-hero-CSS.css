@@ -1,6 +1,7 @@
 .presentation {
   display: flex;
   background-image: url(images/OIP.jfif);
+  background-repeat: no-repeat;
 }
 
 .text {
